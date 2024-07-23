@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that system can restrict the user access when the email format is incorrect</description>
+   <name>Login Failed - Incorrect Email Format</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>31ef982a-d276-41c9-94a9-b9c3f5ada7c4</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify user can login with registered email and password</description>
+   <name>Login Success - Email</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b1b18b10-8b47-40bf-a734-aea3883fa851</testCaseGuid>
+</TestCaseEntity>

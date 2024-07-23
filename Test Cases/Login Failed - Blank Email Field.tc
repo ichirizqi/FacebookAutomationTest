@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that system can restrict the user access when the email field is blank</description>
+   <name>Login Failed - Blank Email Field</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>53a79f96-2f1e-41d3-ac20-c7d52824a97f</testCaseGuid>
+</TestCaseEntity>
