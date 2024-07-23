@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Learn more_WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</name>
+   <tag></tag>
+   <elementGuidId>b09f6998-7d8b-4775-ae4e-6ba6a4faa7cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='next']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.WpHeLc.VfPpkd-mRLv6.VfPpkd-RLmnJb</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Try again&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6dcca06b-acf0-4886-a0e1-20c5e13d5825</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb</value>
+      <webElementGuid>ddd4455d-5925-4349-b225-878b94449e16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/restart?app_domain=https%3A%2F%2Fwww.facebook.com&amp;client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO49HcMIQvp6VbnKc5rNZyPbjHC56PSHi3ZdKt3SbMMoY9eyLnWDS0tBFSj33comlCjIBBo4nPGdyLNVTwBOIXWLCrfpvSI_u1UAeP5QcF1bwPw_WvxuyDWgNi9ZglthCv0ogA8zB6pEEJf_enwNbSgZjcckbfD43OVHfInmGPl3WdlhL_Z1jwUFLvzBFzEdn3DTsFb6wPlYs2zfGCv_qCNNDzUFusLHkvY4377J9hCtlbPDvmAzOBe1cUR6GIDYgUn0icA172FLwNA0skSKdK8Yutnt8MBus4IUTaJBMfHpbKK5YXrtoWYly5KMacsAEmyBPmxdRq1eFtBEL7eI-1ZYzMNTs-uLR-LOZCJQw-_RJxUJLd3KuoTjM6fR9i1sTNRHTPHuyHGmvlR-wTMV8Qi-VmXQQRpApIthprYe9iKSugExUCIr_iSFBK5-hbni3PDV_RnfwaGQwoMp4FrgCLblLt2dg%26flowName%3DGeneralOAuthFlow%26as%3DS822195563%253A1721753300353742%26client_id%3D15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com%23&amp;ddm=0&amp;dsh=S822195563%3A1721753300353742&amp;flowName=GeneralOAuthFlow&amp;login_hint=ichrzq94%40gmail.com&amp;o2v=1&amp;opparams=%253F&amp;rart=ANgoxceeiroMaZwW3BaspJ0x_YRR6tmGohCPf8eTdFDkKCClAQtTp6MJd4OVXD9itCWnOcIrtVScm2v-mnlDVR1hNXmWWthasfntebee76hvdrsL6rC6T8Q&amp;redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&amp;response_type=code&amp;scope=openid%20email&amp;service=lso&amp;state=ARfklFA2swaAEbpuOfYLPlb3SZYH4_fTKuM-WN7NPetU6UuZ2uV3XxR06b9wLUurYEIbOjDlmg8ERz9ckJ0UO68a4Kv5fALSKjj413VhI0U5iSxcWcKi0nBSL46Uo-veq9cvqQ4zWZfWnlmy3EAJXC1_HE8NQskGzHhE_ZgeNXd7KkqHPx3HIVuCiFvdllrgO78nOIx7fSa16reZR1zdQzY0O-5HI84IZRIilkV-K97GEBWzgoq9uPlbGBE3bPD2uVh3igCS1T3fBsgX-8-pRlR3</value>
+      <webElementGuid>53b14c29-5eb9-4462-925c-876be519ca3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Try again</value>
+      <webElementGuid>1c398b0e-3c6a-4c61-a676-a2b1d3ac2b3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-navigation</name>
+      <type>Main</type>
+      <value>server</value>
+      <webElementGuid>1249ddbb-f60c-48f4-acdc-026cd739ee68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>hSRGPd</value>
+      <webElementGuid>43584618-1e2f-45bf-9728-4a9c0548e5af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;next&quot;)/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/div[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/a[@class=&quot;WpHeLc VfPpkd-mRLv6 VfPpkd-RLmnJb&quot;]</value>
+      <webElementGuid>0495a97d-90d5-48a2-a3e8-b442d2b4cca0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='next']/div/div/a</value>
+      <webElementGuid>031ee45f-d1c7-429b-ae43-0205cc6ecc58</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/restart?app_domain=https%3A%2F%2Fwww.facebook.com&amp;client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO49HcMIQvp6VbnKc5rNZyPbjHC56PSHi3ZdKt3SbMMoY9eyLnWDS0tBFSj33comlCjIBBo4nPGdyLNVTwBOIXWLCrfpvSI_u1UAeP5QcF1bwPw_WvxuyDWgNi9ZglthCv0ogA8zB6pEEJf_enwNbSgZjcckbfD43OVHfInmGPl3WdlhL_Z1jwUFLvzBFzEdn3DTsFb6wPlYs2zfGCv_qCNNDzUFusLHkvY4377J9hCtlbPDvmAzOBe1cUR6GIDYgUn0icA172FLwNA0skSKdK8Yutnt8MBus4IUTaJBMfHpbKK5YXrtoWYly5KMacsAEmyBPmxdRq1eFtBEL7eI-1ZYzMNTs-uLR-LOZCJQw-_RJxUJLd3KuoTjM6fR9i1sTNRHTPHuyHGmvlR-wTMV8Qi-VmXQQRpApIthprYe9iKSugExUCIr_iSFBK5-hbni3PDV_RnfwaGQwoMp4FrgCLblLt2dg%26flowName%3DGeneralOAuthFlow%26as%3DS822195563%253A1721753300353742%26client_id%3D15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com%23&amp;ddm=0&amp;dsh=S822195563%3A1721753300353742&amp;flowName=GeneralOAuthFlow&amp;login_hint=ichrzq94%40gmail.com&amp;o2v=1&amp;opparams=%253F&amp;rart=ANgoxceeiroMaZwW3BaspJ0x_YRR6tmGohCPf8eTdFDkKCClAQtTp6MJd4OVXD9itCWnOcIrtVScm2v-mnlDVR1hNXmWWthasfntebee76hvdrsL6rC6T8Q&amp;redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&amp;response_type=code&amp;scope=openid%20email&amp;service=lso&amp;state=ARfklFA2swaAEbpuOfYLPlb3SZYH4_fTKuM-WN7NPetU6UuZ2uV3XxR06b9wLUurYEIbOjDlmg8ERz9ckJ0UO68a4Kv5fALSKjj413VhI0U5iSxcWcKi0nBSL46Uo-veq9cvqQ4zWZfWnlmy3EAJXC1_HE8NQskGzHhE_ZgeNXd7KkqHPx3HIVuCiFvdllrgO78nOIx7fSa16reZR1zdQzY0O-5HI84IZRIilkV-K97GEBWzgoq9uPlbGBE3bPD2uVh3igCS1T3fBsgX-8-pRlR3')]</value>
+      <webElementGuid>cc8d3769-1d3a-4038-9232-8117bf6cf078</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/a</value>
+      <webElementGuid>5b9e4b51-1dce-40a9-a357-50a8f1460971</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/restart?app_domain=https%3A%2F%2Fwww.facebook.com&amp;client_id=15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com&amp;continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAO49HcMIQvp6VbnKc5rNZyPbjHC56PSHi3ZdKt3SbMMoY9eyLnWDS0tBFSj33comlCjIBBo4nPGdyLNVTwBOIXWLCrfpvSI_u1UAeP5QcF1bwPw_WvxuyDWgNi9ZglthCv0ogA8zB6pEEJf_enwNbSgZjcckbfD43OVHfInmGPl3WdlhL_Z1jwUFLvzBFzEdn3DTsFb6wPlYs2zfGCv_qCNNDzUFusLHkvY4377J9hCtlbPDvmAzOBe1cUR6GIDYgUn0icA172FLwNA0skSKdK8Yutnt8MBus4IUTaJBMfHpbKK5YXrtoWYly5KMacsAEmyBPmxdRq1eFtBEL7eI-1ZYzMNTs-uLR-LOZCJQw-_RJxUJLd3KuoTjM6fR9i1sTNRHTPHuyHGmvlR-wTMV8Qi-VmXQQRpApIthprYe9iKSugExUCIr_iSFBK5-hbni3PDV_RnfwaGQwoMp4FrgCLblLt2dg%26flowName%3DGeneralOAuthFlow%26as%3DS822195563%253A1721753300353742%26client_id%3D15057814354-80cg059cn49j6kmhhkjam4b00on1gb2n.apps.googleusercontent.com%23&amp;ddm=0&amp;dsh=S822195563%3A1721753300353742&amp;flowName=GeneralOAuthFlow&amp;login_hint=ichrzq94%40gmail.com&amp;o2v=1&amp;opparams=%253F&amp;rart=ANgoxceeiroMaZwW3BaspJ0x_YRR6tmGohCPf8eTdFDkKCClAQtTp6MJd4OVXD9itCWnOcIrtVScm2v-mnlDVR1hNXmWWthasfntebee76hvdrsL6rC6T8Q&amp;redirect_uri=https%3A%2F%2Fwww.facebook.com%2Foauth2%2Fredirect%2F&amp;response_type=code&amp;scope=openid%20email&amp;service=lso&amp;state=ARfklFA2swaAEbpuOfYLPlb3SZYH4_fTKuM-WN7NPetU6UuZ2uV3XxR06b9wLUurYEIbOjDlmg8ERz9ckJ0UO68a4Kv5fALSKjj413VhI0U5iSxcWcKi0nBSL46Uo-veq9cvqQ4zWZfWnlmy3EAJXC1_HE8NQskGzHhE_ZgeNXd7KkqHPx3HIVuCiFvdllrgO78nOIx7fSa16reZR1zdQzY0O-5HI84IZRIilkV-K97GEBWzgoq9uPlbGBE3bPD2uVh3igCS1T3fBsgX-8-pRlR3']</value>
+      <webElementGuid>3592943b-d34b-4347-81f0-2f6ffc96f0a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

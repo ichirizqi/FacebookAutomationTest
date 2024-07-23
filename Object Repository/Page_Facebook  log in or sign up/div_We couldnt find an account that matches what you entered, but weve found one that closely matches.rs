@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_We couldnt find an account that matches what you entered, but weve found one that closely matches</name>
+   <tag></tag>
+   <elementGuidId>cd835793-3690-4c88-a46a-caaeb1d14805</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//html[@id='facebook']/body/div[3]/div[2]/div/div/div/div/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div._9kq2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;We couldn't find an account that matches what you entered, but we've found one t&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>342e4ed3-7443-4fd1-aae8-32b482bbc45a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_9kq2</value>
+      <webElementGuid>d5b616bf-1b8a-420f-9b4f-1b3e20970df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>We couldn't find an account that matches what you entered, but we've found one that closely matches.</value>
+      <webElementGuid>0ab3eff0-4dd7-43ae-957e-7bf643fe08b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;facebook&quot;)/body[@class=&quot;fbIndex UIPage_LoggedOut _-kb _605a b_c3pyn-ahh chrome webkit win x1 Locale_en_GB cores-gte4 _19_u&quot;]/div[@class=&quot;_10 _9lv3 uiLayer _4-hy _3qw&quot;]/div[@class=&quot;_59s7 _9l2g&quot;]/div[@class=&quot;_4t2a&quot;]/div[1]/div[1]/div[@class=&quot;_4-i2 _pig _9kpl _50f4&quot;]/div[@class=&quot;_9kq2&quot;]</value>
+      <webElementGuid>f220f814-0e01-425a-a2dd-4fb142049dd7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//html[@id='facebook']/body/div[3]/div[2]/div/div/div/div/div[5]</value>
+      <webElementGuid>e78a9def-6d96-4e7b-9dfb-e1cc76892f88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Not you?'])[1]/following::div[1]</value>
+      <webElementGuid>1e70ffe1-5248-48ac-9bc5-787a9c858b70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ic@gmail.com •'])[1]/following::div[1]</value>
+      <webElementGuid>82fe6be5-9ac5-45e4-a454-cd5c33068b29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Yes, Continue'])[1]/preceding::div[1]</value>
+      <webElementGuid>f042ebbe-ba16-4f9a-9557-cd80975cc9b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[5]</value>
+      <webElementGuid>dbae9f8b-f500-4e9e-afbc-1503c0fea7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;We couldn&quot; , &quot;'&quot; , &quot;t find an account that matches what you entered, but we&quot; , &quot;'&quot; , &quot;ve found one that closely matches.&quot;) or . = concat(&quot;We couldn&quot; , &quot;'&quot; , &quot;t find an account that matches what you entered, but we&quot; , &quot;'&quot; , &quot;ve found one that closely matches.&quot;))]</value>
+      <webElementGuid>4ec0c666-8ff4-416e-8abb-5560e29d1867</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

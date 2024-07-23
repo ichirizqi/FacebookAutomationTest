@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_The password youve entered is incorrect</name>
+   <tag></tag>
+   <elementGuidId>584df83c-2c46-4407-8598-f6d369ae547d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='u_0_1_j4']/div/div[2]/div/div/div/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span._akzt</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;The password you've entered is incorrect.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e44702ef-8a53-4955-add8-bca6800b6394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>_akzt</value>
+      <webElementGuid>5d8b36a1-fb80-4668-b78b-8b6d20a3eb63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>The password you've entered is incorrect.</value>
+      <webElementGuid>fd4065b0-e160-4c90-8547-c383fd775ae2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;u_0_1_j4&quot;)/div[@class=&quot;mtl mbm ptm uiInterstitial _aklr uiInterstitialLarge uiBoxWhite&quot;]/div[@class=&quot;phl ptm uiInterstitialContent&quot;]/div[1]/div[@class=&quot;pam uiBoxGray&quot;]/div[1]/span[@class=&quot;_akzt&quot;]</value>
+      <webElementGuid>f74be97f-c8ce-469b-a993-d3dc0d2a061d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='u_0_1_j4']/div/div[2]/div/div/div/span[2]</value>
+      <webElementGuid>498062be-98b1-4a12-805d-45f1ebb3b38d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use your Google account'])[1]/following::span[2]</value>
+      <webElementGuid>e4704b3b-e6a2-4433-a156-ea5a97a6dbf7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickly log in with your Google account.'])[1]/preceding::span[1]</value>
+      <webElementGuid>3223e6f4-ee07-4093-acb0-669689fa6076</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ichrzq94@gmail.com'])[1]/preceding::span[1]</value>
+      <webElementGuid>c2280177-92f0-4062-b379-d6f7354224ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>a94a94bf-f8a5-430d-8851-4791cc624e1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;) or . = concat(&quot;The password you&quot; , &quot;'&quot; , &quot;ve entered is incorrect.&quot;))]</value>
+      <webElementGuid>16e6f69b-7370-45a2-8711-1b68df141a0a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
